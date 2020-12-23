@@ -1,19 +1,16 @@
 [
 	{
 		"name": "Riverside Warrior",
-		"replaces": "Spearman",
+		"replaces": "Warrior",
 		"uniqueTo": "Unanda",
 		"unitType": "Melee",
 		"movement": 3,
 		"strength": 12,
-		"cost": 61,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["Bonus vs Mounted 50%"],
-		"promotions": ["Shock I","Blitz"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Haka War Dance"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	},
 {
 	  "name": "Riverside Archer",
@@ -22,7 +19,7 @@
 		"unitType": "Ranged",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 10,
+		"rangedStrength": 12,
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Machinery",
