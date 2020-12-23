@@ -32,7 +32,7 @@
 		"innerColor":[65, 105, 225],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food] from every [Flood Plains]", "[+1 Production] from every [Flood Plains]", "[+2 Gold] from every [Flood Plains]"],
+		"uniques": ["[+2 Food] from every [Flood Plains]", "[+1 Production] from every [Flood Plains]", "[+2 Gold] from every [Flood Plains]", "[+2 Production] from every [Hill]", "+[15]% Production when constructing [Wonders]", "Tile yields from Natural Wonders doubled" ],
 	
 		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
