@@ -28,11 +28,11 @@
 		"afterPeace":"TODO",
 		"tradeRequest":"TODO",
 				
-		"outerColor":[135, 206, 235],
-		"innerColor":[65, 105, 225],
+		"outerColor":[115, 252, 3],
+		"innerColor":[138, 110, 67],
 		
 		"uniqueName": "One with the trees",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[+2 Food] from every [Flood Plains]", "[+1 Production] from every [Flood Plains]", "[+2 Gold] from every [Flood Plains]", "[+2 Food] from every [Plains]", "[+1 Production] from every [Plains]", "[+2 Gold] from every [Plains]", "[+2 Production] from every [Hill]", "+[15]% Production when constructing [Wonders]", "Tile yields from Natural Wonders doubled" ],
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[+1 Food] from every [Forest]", "[+1 Production] from every [Forest]", "[+2 Culture] from every [Forest]", "Tile yields from Natural Wonders doubled" ],
 	
 		"cities":["Lothlorien", "Woodland Realm"]
 	}
