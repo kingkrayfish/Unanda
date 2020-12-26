@@ -32,7 +32,7 @@
 		"innerColor":[138, 110, 67],
 		
 		"uniqueName": "One with the trees",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[+1 Food] from every [Forest]", "[+1 Production] from every [Forest]", "[+2 Culture] from every [Forest]", "Tile yields from Natural Wonders doubled" ],
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "Units ignore terrain costs when moving into any tile with Hills", "[+2 Food] from every [Forest]", "[+1 Production] from every [Forest]", "[+2 Culture] from every [Forest]", "Tile yields from Natural Wonders doubled" ],
 	
 		"cities":["Lothlorien", "Woodland Realm"]
 	}
